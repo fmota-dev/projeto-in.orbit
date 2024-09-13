@@ -8,7 +8,7 @@ A **Next Level Week** é um evento gratuito de programação na prática da Rock
 
 **in.Orbit** é uma aplicação para gerenciamento de metas, e é o projeto desenvolvido durante a edição do evento conhecida como **NLW Pocket Javascript**.
 
-![thumbnail](![image](https://github.com/user-attachments/assets/c9d3c92c-e33b-485d-99e7-153fbfbbaf00))
+![image](https://github.com/user-attachments/assets/a45732d2-88d8-4d7b-9bb9-369fc8c51c4b)
 
 ## Funcionalidades
 
